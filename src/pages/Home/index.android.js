@@ -38,7 +38,7 @@ const list = [
 function detectacaoRootDetection(){
   const detection = JailMonkey.androidRootedDetectionMethods
   for (let chave in detection){
-    if(chave == "jailMonkey" && detection[chave] === true){
+    if(chave === "jailMonkey" && detection[chave] === true){
       return detection[chave]
     }else{
       for (chaveRoot in detection.rootBeer){
