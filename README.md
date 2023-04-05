@@ -21,7 +21,7 @@ O aplicativo que construir é vulnerável a detecção de root e por conta disso
 
 # Características
 
- - O aplicativo tem proteção contra de root, porém está vulnerável
+ - O aplicativo tem proteção contra root, porém está vulnerável
 
 # Instalação
 
