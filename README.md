@@ -21,14 +21,14 @@ O aplicativo que construir é vulnerável a detecção de root e por conta disso
 
 # Características
 
- - O aplicativo é vulnerável a detecção de root
+ - O aplicativo tem proteção contra de root, porém está vulnerável
 
 # Instalação
 
 O aplicativo requer **react-native** e para baixá-lo só usar:
 
 ```sh
-git clone https://github.com/joaoviictorti/Bypass-JailMonkey-Root
+git clone https://github.com/joaoviictorti/JailMonkey-Root
 ```
 
 
