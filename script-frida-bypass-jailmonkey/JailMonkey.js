@@ -1,9 +1,3 @@
-/**
-    Bypass Root Detection Jail-Monkey
-    https://github.com/GantMan/jail-monkey
-**/
-
-
 Java.perform(() => {
     var classeJailmonkey = Java.use("com.gantix.JailMonkey.JailMonkeyModule");
     var hash = Java.use("java.util.HashMap");
