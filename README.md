@@ -2,17 +2,15 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=32&center=true&vCenter=true&width=1000&height=30&lines=Bypass+jailMonkey+em+Android+e+IOS)](https://git.io/typing-svg)
 
-
-<h4 align="center">Application to test root detection vulnerabilities</h4>
-<p align="center">
-  <a href="#features">Features</a> •
-  <a href="#Installation">Installation</a>
-</p>
-
 <div align="center">
 
 ![JailMonkey](https://raw.githubusercontent.com/GantMan/jail-monkey/master/_art/JailMonkey.jpg)
 </div>
+<h4 align="center">Application to test root detection vulnerabilities</h4>
+<p align="center">
+  <a href="#features">Features</a> •
+  <a href="#installation">Installation</a>
+</p>
 
 ---
 
