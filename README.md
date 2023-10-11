@@ -1,20 +1,20 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=header"/>
+# Bypass jailMonkey em Android e IOS
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=32&center=true&vCenter=true&width=1000&height=30&lines=Bypass+jailMonkey+em+Android+e+IOS)](https://git.io/typing-svg)
-
-<div align="center">
-
-![JailMonkey](https://raw.githubusercontent.com/GantMan/jail-monkey/master/_art/JailMonkey.jpg)
-</div>
-<h4 align="center">Application to test root detection vulnerabilities</h4>
-<p align="center">
-  <a href="#features">Features</a> •
-  <a href="#installation">Installation</a>
+<p align="left">
+	<a href="#"><img src="https://img.shields.io/badge/made%20with-Javascript-yellow"></a>
+	<a href="#"><img src="https://img.shields.io/badge/platform-osx%2Flinux%2Fwindows-blueviolet"></a>
 </p>
 
----
+<div align="center">
+	<img height="400" width="900" src="https://raw.githubusercontent.com/GantMan/jail-monkey/master/_art/JailMonkey.jpg"/>
+</div>
 
 The application that we build is a proof of concept of the mechanism breaking vulnerability in root detection and because of this we decided to set up this laboratory to carry out mobile security tests.
+
+- [Installation](#installation)
+- [Features](#features)
+
+---
 
 # Features
 
@@ -27,6 +27,3 @@ The application requires **react-native** and to download it just use:
 ```sh
 git clone https://github.com/joaoviictorti/JailMonkey-Root
 ```
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0000FF&height=120&section=footer"/>
